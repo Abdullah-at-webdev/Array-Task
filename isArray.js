@@ -12,6 +12,3 @@ else if (Array.isArray(ages || products)){
 else{
     console.log('No These Are Not Array Elements')
 }
-
-const numbers = (33, 34, 25, 333, 78);
-console.log(numbers);
